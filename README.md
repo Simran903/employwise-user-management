@@ -44,9 +44,9 @@ npm start
 - Tailwind CSS
 
 ## Bonus Features
-https://employwise-management-task.netlify.app/
 - Client-side routing
 - Protected routes
 - Responsive design
 
 ## Deployment
+https://employwise-management-task.netlify.app/
